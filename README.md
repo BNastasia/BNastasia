@@ -22,14 +22,16 @@
 ![slack](https://img.shields.io/badge/-slack-090909?style=for-the-badge&logo=slack&logoColor=#4A154B)
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNastasia)](https://github.com/anuraghazra/github-readme-stats)
+### My CV
+[Link to my CV](https://docs.google.com/document/d/1wBIcHU-TV3mhO07Muzppi230ytmBfjDEwFWWpcgC0xE/edit)
 
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasiia-bel/)
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](nastasia.beloborodova@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNastasia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
