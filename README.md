@@ -1,4 +1,4 @@
-## I am a highly skilled Software Engineer in Test with 5+ years of experience in automation and manual testing. I am developing and maintaining automation frameworks, web services automation, and API testing.
+## I am a highly skilled QA Automation Engineer with 5+ years of experience in automation and manual testing. I am developing and maintaining automation frameworks, web services automation, and API testing.
 
 
 ### Languages and Tools:
