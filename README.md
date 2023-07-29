@@ -23,7 +23,7 @@
 
 
 ### My CV
-[Link to my CV](https://docs.google.com/document/d/1wBIcHU-TV3mhO07Muzppi230ytmBfjDEwFWWpcgC0xE/edit)
+[Link to my CV](https://docs.google.com/document/d/1vEnXefx-PqErbl8-nFb2NKFN36IvMXlCxR2R1dLslLE/edit)
 
 
 ### Socials:
