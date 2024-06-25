@@ -1,4 +1,4 @@
-## I am a highly skilled QA Automation Engineer with 5+ years of experience in automation and manual testing. I am developing and maintaining automation frameworks, web services automation, and API testing.
+## I am a highly skilled QA Automation Engineer with 6 years of experience in automation and manual testing. I am developing and maintaining automation frameworks, web services automation, and API testing.
 
 
 ### Languages and Tools:
@@ -31,12 +31,5 @@
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasiia-bel/)
-[![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](ana.beloborodova.job@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNastasia&show_icons=true&theme=tokyonight)
-
-
-
-
-
-
